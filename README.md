@@ -115,5 +115,5 @@ pnpm i
   reactDomRoot.render(mainApp);
   ```
 - index.css
-  ![image](https://github.com/yen815/react-homework/assets/119932452/8ea49cee-52d5-4331-9ffe-d901a24fc92a)
-  tailwind css 추가
+![image](https://github.com/yen815/react-homework/assets/119932452/8ea49cee-52d5-4331-9ffe-d901a24fc92a)
+tailwind css 추가
