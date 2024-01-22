@@ -94,7 +94,7 @@ pnpm i
 <br>   
 
 ## 파일 구성 설명
-![image](https://github.com/yen815/react-homework/assets/119932452/28a069cb-0549-419b-85ca-081ac398b88d)
+![image](https://github.com/yen815/react-homework/assets/119932452/21d3174c-fe41-48ee-b6cd-04d4614863b7)
 
 ## 구성 설명
 ![image](https://github.com/yen815/react-homework/assets/119932452/8b548017-d3b3-4f92-ad36-f20594d1b6d5)
