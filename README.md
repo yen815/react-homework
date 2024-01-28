@@ -25,9 +25,8 @@ pnpm add react react-dom -D
 ``` shell
 pnpm i -D tailwindcss
 npx tailwindcss init
-pnpm add -D tailwindcss postcss autoprefixer postcss-import
+pnpm add -D tailwindcss postcss autoprefixer postcss-import postcss-nesting
 pnpm i lodash --save
-pnpm i -D postcss-nesting
 ```
 
 - **postcss.config.js 생성**
